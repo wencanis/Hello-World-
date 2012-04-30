@@ -10,3 +10,7 @@ asdfasdf
 asdfasdfasdf
 asdfasdfasdfasdfasdfasdfadsf
 asdfasdfafafsdfsdfsdfadsf
+This is the first line of change
+Here is the second
+The third
+and the fourth as well
